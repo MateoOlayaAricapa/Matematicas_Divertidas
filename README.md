@@ -17,5 +17,3 @@ Se utilizó Figma para el desarrollo de las interfaces.
 ## Contacto:
 * LinkedIn: www.linkedin.com/in/mateoolayaaricapa
 
-## Ejemplo en vivo:
-* YouTube: 
